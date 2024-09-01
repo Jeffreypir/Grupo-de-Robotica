@@ -19,7 +19,7 @@ O avanço tecnológico tem transformado a sociedade de maneiras profundas e vari
 
 ### Metodologia
 
-O projeto foi realizado na EREFEM Monsenhor José Kehrle, na disciplina de Robótica II, com um foco específico em práticas sustentáveis. Os estudantes foram divididos em grupos e enfrentaram desafios que envolviam a criação de robôs com Arduino, utilizando componentes recicláveis e técnicas que visam a eficiência energética. A abordagem envolveu a modelagem matemática e a programação de robôs, enfatizando o uso de tecnologias e práticas que reduzam o impacto ambiental.
+O projeto foi realizado na EREFEM Monsenhor José Kehrle, na disciplina de Robótica IV, com um foco específico em práticas sustentáveis. Os estudantes foram divididos em grupos e enfrentaram desafios que envolviam a criação de robôs com Arduino, utilizando componentes recicláveis e técnicas que visam a eficiência energética. A abordagem envolveu a modelagem matemática e a programação de robôs, enfatizando o uso de tecnologias e práticas que reduzam o impacto ambiental.
 
 ### Resultados
 
