@@ -1,4 +1,7 @@
 # Grupo de Robótica
+
+<div align="justify">
+
 Criado para o desenvolvimento de Robótica no Ensino Médio
 
 ## Introdução
@@ -37,3 +40,4 @@ A implementação de práticas sustentáveis na programação e robótica trouxe
 - STROUSTRUP, Bjarne. *The C++ Programming Language.* Fourth edition. Upper Saddle River, NJ, Addison-Wesley, 2013.
 - MARTIN, Robert C. *Código Limpo: Habilidades Práticas do Agile Software.* Alta Books: 2019.
 
+</div>
