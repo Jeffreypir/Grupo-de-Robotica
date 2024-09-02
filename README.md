@@ -2,7 +2,8 @@
 
 <div align="justify">
 
-Criado para o desenvolvimento de Robótica no Ensino Médio
+Criado para o desenvolvimento de Robótica no Ensino Médio.
+Veja nosso projetos:
 
 ## Introdução
 
