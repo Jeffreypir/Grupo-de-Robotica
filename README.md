@@ -5,7 +5,7 @@
 Criado para o desenvolvimento de Robótica no Ensino Médio.
 
 Veja nossos projetos:
-![link] (https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/)
+[Wiki do Grupo de Robótica] (https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/)
 
 ## Introdução
 
