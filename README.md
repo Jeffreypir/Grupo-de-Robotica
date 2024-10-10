@@ -31,6 +31,11 @@ Os estudantes demonstraram aprimoramento significativo em raciocínio lógico e 
 
 ### Conclusão
 
+### Evidências 
+| ![Imagem 1](https://github.com/Jeffreypir/Grupo-de-Robotica/blob/main/Wall-Frente-Menor.jpeg) | ![Imagem 2](https://github.com/Jeffreypir/Grupo-de-Robotica/blob/main/Wall-Lado-Menor.jpeg) |
+|:------------------------------------:|:------------------------------------:|
+| Imagem 1                            | Imagem 2                            |
+
 A implementação de práticas sustentáveis na programação e robótica trouxe benefícios substanciais para os estudantes, ampliando suas habilidades técnicas e promovendo a conscientização ambiental. O trabalho em equipe e os debates sobre soluções ecológicas contribuíram para o desenvolvimento de habilidades práticas e uma compreensão mais profunda da importância da sustentabilidade na tecnologia.
 
 ### Referências
