@@ -29,12 +29,14 @@ O projeto foi realizado na EREFEM Monsenhor José Kehrle, na disciplina de Robó
 
 Os estudantes demonstraram aprimoramento significativo em raciocínio lógico e pensamento computacional. A prática com Arduino e a aplicação de princípios de robótica sustentável permitiram a criação de projetos inovadores que não só resolveram problemas técnicos, mas também atenderam a critérios de sustentabilidade. A experimentação levou à construção de soluções que minimizam o desperdício e utilizam recursos de maneira mais eficiente, promovendo uma abordagem mais consciente e ecológica na robótica.
 
-### Conclusão
-
 ### Evidências 
+
 | ![Imagem 1](https://github.com/Jeffreypir/Grupo-de-Robotica/blob/main/Wall-Frente-Menor.jpeg) | ![Imagem 2](https://github.com/Jeffreypir/Grupo-de-Robotica/blob/main/Wall-Lado-Menor.jpeg) |
 |:------------------------------------:|:------------------------------------:|
 | Imagem 1                            | Imagem 2                            |
+
+
+### Conclusão
 
 A implementação de práticas sustentáveis na programação e robótica trouxe benefícios substanciais para os estudantes, ampliando suas habilidades técnicas e promovendo a conscientização ambiental. O trabalho em equipe e os debates sobre soluções ecológicas contribuíram para o desenvolvimento de habilidades práticas e uma compreensão mais profunda da importância da sustentabilidade na tecnologia.
 
