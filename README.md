@@ -9,14 +9,7 @@ Veja nossos projetos:
 [Wiki do Grupo de Robótica] (https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/)
 
 ## Introdução
-```c
-#include <stdio.h>
 
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
-```
 O avanço tecnológico tem transformado a sociedade de maneiras profundas e variadas, refletindo na necessidade crescente de profissionais qualificados nas áreas de programação e robótica. Este trabalho explora a robótica sustentável utilizando Arduino, enfatizando a importância de soluções ecológicas e eficientes para o desenvolvimento tecnológico. O objetivo é integrar práticas sustentáveis na programação e robótica para promover um impacto positivo no meio ambiente e preparar os estudantes do Ensino Médio para um futuro mais verde.
 
 ### Objetivos
