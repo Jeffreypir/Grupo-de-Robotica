@@ -33,7 +33,7 @@ Os estudantes demonstraram aprimoramento significativo em raciocínio lógico e 
 
 | ![Imagem 1](https://github.com/Jeffreypir/Grupo-de-Robotica/blob/main/Wall-Frente-Menor.jpeg) | ![Imagem 2](https://github.com/Jeffreypir/Grupo-de-Robotica/blob/main/Wall-Lado-Menor.jpeg) |
 |:------------------------------------:|:------------------------------------:|
-| Imagem 1                            | Imagem 2                            |
+| Wall E Frente                        | Wall E Lado                          |
 
 
 ### Conclusão
