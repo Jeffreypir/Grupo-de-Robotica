@@ -3,13 +3,12 @@
  * Programa:ArdarilhoArduino.ino 
  * Data de Criacao: sex 04 out 2024 10:28
  * Data de atualizacao: sex 04 out 2024 10:28
- * Authores:
+ * Autores:
  * Jefferson Bezerra dos Santos,
- * Izabelly 
- * Wingredi 
- * Lorena  
- *
- * Descricao:   
+ * Izabelly Euginia
+ * Maria Antônia 
+ * Theves 
+ * Descricao:  Projeto sustentavel Wall E 
  *===========================================================
  */
 #include <Arduino.h>
