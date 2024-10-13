@@ -1,20 +1,23 @@
 
 /*==================== PROGRAM ==============================
- * Program: <+name+>
- * Date of Create: <+date+>
- * Update in: <+update+>
+ * Program: Animatronico.ino
+ * Date of Create: 13/10/2024
+ * Update in: 13/10/2024
  * Author:Jefferson Bezerra dos Santos
- * Description: <+description+>
+ * Description: Animatronic Arduino
  *===========================================================
  */
+// Library of project 
 #include <Arduino.h>
 #include <Servo.h> 
 
+// Declaration of Eyes of animatronic
 Servo lefthEye;
 Servo righEye;
 
 /* ==================== MACROS ============================ */
-
+//Definition of time 
+#define TIME 1000
 /// Movimentation of Eyes
 #define LEFTHEYE 10
 #define RIGHEYE   9
@@ -32,8 +35,6 @@ Servo righEye;
 unsigned long int tempo;
 unsigned long int distancia;
 
-
-
 /* ================== End of variables =========================*/
 
 
@@ -48,11 +49,12 @@ unsigned long int distancia;
  * ==========================================================
  */
 void setup() {
-    lefthEye.attach(LEFTHEYE);
-    righEye.attach(RIGHEYE);
+    lefthEye.attach(LEFTHEYE);  // Definition of port of Lefth Eye 
+    righEye.attach(RIGHEYE);    // Definition of port of Right Eye
 
-    pinMode(TRIG, OUTPUT);
-    pinMode(ECHO, INPUT);
+    pinMode(ECHO, INPUT);      // Input of Ultrassonic 
+    pinMode(TRIG, OUTPUT);     // Output of Ultrassonic 
+  
 
 
 
@@ -67,20 +69,23 @@ void setup() {
  * ==========================================================
  */
 void loop() {
-    digitalWrite(TRIG, HIGH);
-    delay(10);
+    
+    digitalWrite(TRIG, HIGH); // Port Trig in HIGH
+    delay(10); // Delay of 10 ms
     digitalWrite(TRIG, LOW);
-    tempo = pulseIn(ECHO, HIGH, 23529);
-    distancia = tempo/58;
-    delay(100);
+    tempo = pulseIn(ECHO, HIGH, 23529); // Time of Ultrassonic 
+    distancia = tempo/58; // Distance of Ultrassonic 
+    delay(100);  // Delay of 100 ms 
 
-    if (distancia <= 30){
+    if (distancia <= 30){ // If distance less than or equal, then movimentation of Eyes
+       //Movimentation of Eyes 
         lefthEye.write(70);
         righEye.write(70);
-        delay(1000);
+        delay(TIME);
+        //Movimentation of Eyes
         lefthEye.write(-70);
         righEye.write(-70);
-        delay(1000);
+        delay(TIME;
     }
 }
 
