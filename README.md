@@ -1,60 +1,169 @@
-# Grupo de Robótica
+---
+
+# 🤖 Grupo de Robótica
 
 <div align="justify">
 
-Criado para o desenvolvimento de Robótica no Ensino Médio.
+Bem-vindo ao repositório do **Grupo de Robótica da EREFEM Monsenhor José Kehrle**. Este espaço foi criado para registrar e compartilhar nossos projetos de robótica com foco em **sustentabilidade, inovação tecnológica** e **educação no Ensino Médio**.
 
-Veja nossos projetos:
-
-[Wiki do Grupo de Robótica] (https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/)
-
-## Introdução
-
-O avanço tecnológico tem transformado a sociedade de maneiras profundas e variadas, refletindo na necessidade crescente de profissionais qualificados nas áreas de programação e robótica. Este trabalho explora a robótica sustentável utilizando Arduino, enfatizando a importância de soluções ecológicas e eficientes para o desenvolvimento tecnológico. O objetivo é integrar práticas sustentáveis na programação e robótica para promover um impacto positivo no meio ambiente e preparar os estudantes do Ensino Médio para um futuro mais verde.
-
-### Objetivos
-
-- **Desenvolver a consciência ambiental** dos estudantes, destacando a importância da sustentabilidade na tecnologia.
-- **Incentivar a utilização de práticas sustentáveis** na programação e construção de robôs.
-- **Fomentar a inovação** em soluções de robótica que minimizem o desperdício e promovam a eficiência energética.
-- **Promover a autonomia dos estudantes** na criação de projetos de robótica sustentável.
-- **Estimular o trabalho em equipe** na construção e experimentação de projetos ecológicos.
-- **Desenvolver habilidades práticas** na programação e montagem de robôs utilizando Arduino, com foco na sustentabilidade.
-
-### Metodologia
-
-O projeto foi realizado na EREFEM Monsenhor José Kehrle, na disciplina de Robótica IV, com um foco específico em práticas sustentáveis. Os estudantes foram divididos em grupos e enfrentaram desafios que envolviam a criação de robôs com Arduino, utilizando componentes recicláveis e técnicas que visam a eficiência energética. A abordagem envolveu a modelagem matemática e a programação de robôs, enfatizando o uso de tecnologias e práticas que reduzam o impacto ambiental.
-
-### Resultados
-
-Os estudantes demonstraram aprimoramento significativo em raciocínio lógico e pensamento computacional. A prática com Arduino e a aplicação de princípios de robótica sustentável permitiram a criação de projetos inovadores que não só resolveram problemas técnicos, mas também atenderam a critérios de sustentabilidade. A experimentação levou à construção de soluções que minimizam o desperdício e utilizam recursos de maneira mais eficiente, promovendo uma abordagem mais consciente e ecológica na robótica.
-
-### Evidências 
-
-| ![Imagem 1](https://github.com/Jeffreypir/Grupo-de-Robotica/blob/main/Wall-Frente-Menor.jpeg) | ![Imagem 2](https://github.com/Jeffreypir/Grupo-de-Robotica/blob/main/Wall-Lado-Menor.jpeg) |
-|:------------------------------------:|:------------------------------------:|
-| Wall E Frente                        | Wall E Lado                          |
-
-
-| ![Imagem 1](https://github.com/Jeffreypir/Grupo-de-Robotica/blob/main/animatronico1.jpg) | ![Imagem 2](https://github.com/Jeffreypir/Grupo-de-Robotica/blob/main/animatronico2.jpg) |
-|:------------------------------------:|:------------------------------------:|
-| Animatrônico Frente                  | Animatrônico Lado                    |
-
-
-
-### Conclusão
-
-A implementação de práticas sustentáveis na programação e robótica trouxe benefícios substanciais para os estudantes, ampliando suas habilidades técnicas e promovendo a conscientização ambiental. O trabalho em equipe e os debates sobre soluções ecológicas contribuíram para o desenvolvimento de habilidades práticas e uma compreensão mais profunda da importância da sustentabilidade na tecnologia.
-
-### Referências
-
-- SILVA, Leonardo; CARVALHO, Felipe. Pensando a Robótica na Educação Básica. *Revista de Investigação e Divulgação em Educação Matemática.*, 2. 10.34019/2594-4673. 2018.v2.27369, 2019.
-- CAMARGO, Fausto; DAROS, Thuinie. *A sala de aula digital: estratégias pedagógicas para fomentar o aprendizado ativo, on-line e híbrido.* Porto Alegre: Penso, 2021.
-- NETO, Arlindo.; OLIVEIRA, Yan. *Eletrônica Analógica e Digital Aplicada À IOT: Aprenda de maneira descomplicada.* Rio de Janeiro: Alta Books, 2019.
-- DEITEL, Paul; DEITEL, Harvey. *C: como programar.* 6. ed. São Paulo: Pearson, 818 p. ISBN 9788576059349, 2011.
-- MCROBERTS, Michael. *Arduino.* São Paulo: Novatec Editora, 2011.
-- KERNIGHAN, Brian W.; RITCHIE, Dennis M. *The C Programming Language* (2nd ed.). Prentice Hall Professional Technical Reference, 1988.
-- STROUSTRUP, Bjarne. *The C++ Programming Language.* Fourth edition. Upper Saddle River, NJ, Addison-Wesley, 2013.
-- MARTIN, Robert C. *Código Limpo: Habilidades Práticas do Agile Software.* Alta Books: 2019.
+[![Wiki do Projeto](https://img.shields.io/badge/wiki-acessar-blue?style=flat-square\&logo=github)](https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/)
+[![Licença](https://img.shields.io/github/license/Jeffreypir/Grupo-de-Robotica?style=flat-square)](LICENSE)
+[![Repositório](https://img.shields.io/badge/Arduino-projetos-green?style=flat-square\&logo=arduino)](https://www.arduino.cc/)
 
 </div>
+
+---
+
+## 📌 Introdução
+
+A tecnologia tem transformado profundamente a sociedade, e a **robótica educacional** surge como uma ferramenta poderosa para preparar os estudantes para os desafios do futuro. Este projeto propõe o uso do **Arduino** aliado a práticas **sustentáveis**, promovendo o aprendizado ativo, a consciência ambiental e o pensamento computacional.
+
+---
+
+## 🎯 Objetivos
+
+* 🌱 **Conscientizar** sobre a importância da sustentabilidade na tecnologia.
+* 🔧 **Incentivar** o uso de práticas sustentáveis na construção de robôs.
+* 💡 **Fomentar a inovação** com foco em eficiência energética e reaproveitamento de materiais.
+* 🤝 **Estimular o trabalho em equipe** em projetos colaborativos.
+* 👨‍💻 **Desenvolver habilidades práticas** em programação e montagem com Arduino.
+* 🚀 **Promover a autonomia criativa** dos estudantes no desenvolvimento de soluções ecológicas.
+
+---
+
+## 🧪 Metodologia
+
+O projeto foi desenvolvido durante a disciplina de **Robótica IV** com estudantes do Ensino Médio, que trabalharam em equipes para resolver desafios utilizando **Arduino** e **materiais recicláveis**. As atividades incluíram:
+
+* Modelagem matemática dos sistemas.
+* Programação dos robôs.
+* Aplicação de técnicas de **eficiência energética**.
+* Discussão de impactos ambientais e soluções sustentáveis.
+
+---
+
+## 📈 Resultados
+
+Os estudantes apresentaram um notável progresso em:
+
+* Raciocínio lógico e pensamento computacional.
+* Criatividade na resolução de problemas reais.
+* Compreensão de conceitos de eletrônica, física e programação.
+* Desenvolvimento de robôs com menor impacto ambiental.
+
+As soluções apresentadas visaram não apenas a eficácia técnica, mas também a **responsabilidade ecológica**, utilizando materiais reutilizados e promovendo o uso eficiente de energia.
+
+---
+
+## ✅ Conclusão
+
+A introdução de **práticas sustentáveis na robótica educacional** contribuiu significativamente para o desenvolvimento técnico, social e ambiental dos estudantes. A experiência fortaleceu a formação de uma **cultura de inovação responsável**, estimulando a atuação crítica dos jovens diante dos desafios do século XXI.
+
+---
+
+## 📚 Referências
+
+* SILVA, Leonardo; CARVALHO, Felipe. *Pensando a Robótica na Educação Básica*. Revista de Investigação e Divulgação em Educação Matemática, 2019.
+* CAMARGO, Fausto; DAROS, Thuinie. *A sala de aula digital: estratégias pedagógicas para fomentar o aprendizado ativo, on-line e híbrido.* Penso, 2021.
+* NETO, Arlindo; OLIVEIRA, Yan. *Eletrônica Analógica e Digital Aplicada à IoT.* Alta Books, 2019.
+* DEITEL, Paul; DEITEL, Harvey. *C: Como Programar.* Pearson, 2011.
+* MCROBERTS, Michael. *Arduino: Guia do Programador.* Novatec, 2011.
+* KERNIGHAN, Brian; RITCHIE, Dennis. *The C Programming Language.* Prentice Hall, 1988.
+* STROUSTRUP, Bjarne. *The C++ Programming Language.* Addison-Wesley, 2013.
+* MARTIN, Robert C. *Código Limpo: Habilidades Práticas do Agile Software.* Alta Books, 2019.
+
+---
+
+## 🌐 Acesse Também
+
+* [🔎 Wiki do Projeto](https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/) — Documentação completa, tutoriais e registros dos projetos.
+
+---
+Perfeito! Aqui está a **seção adicional** para seu `README.md`, com instruções claras e profissionais para usuários que desejam rodar os projetos usando **Arduino IDE** ou **Arduino-CLI**, tanto em **Windows** quanto **Linux**:
+
+---
+
+## ⚙️ Como Executar os Projetos
+
+Você pode compilar e carregar os projetos do Grupo de Robótica utilizando:
+
+### 🟦 Arduino IDE
+
+> Recomendado para iniciantes e usuários que preferem interface gráfica.
+
+#### ✅ Passos:
+
+1. Instale a Arduino IDE:
+
+   * [Download para Windows/Linux](https://www.arduino.cc/en/software)
+2. Conecte sua placa Arduino via USB.
+3. Abra o projeto `.ino` desejado.
+4. Selecione a placa correta:
+
+   * *Exemplo:* **Arduino Uno**
+5. Selecione a porta serial:
+
+   * No menu: `Ferramentas > Porta`
+6. Clique em `✔️ Verificar` para compilar.
+7. Clique em `➡️ Carregar` para enviar o código à placa.
+
+---
+
+### 🟢 Arduino-CLI
+
+> Ideal para usuários avançados, automatização e uso via terminal (Linux e Windows PowerShell ou CMD).
+
+#### ✅ Instalação
+
+**Linux (via terminal):**
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh
+```
+
+**Windows (via PowerShell):**
+
+```powershell
+Invoke-WebRequest https://downloads.arduino.cc/arduino-cli/arduino-cli_latest_Windows_64bit.zip -OutFile arduino-cli.zip
+Expand-Archive .\arduino-cli.zip -DestinationPath "C:\ArduinoCLI"
+```
+
+Adicione `C:\ArduinoCLI` ao `PATH` do sistema.
+
+#### ✅ Configuração Inicial
+
+```bash
+arduino-cli config init
+arduino-cli core update-index
+arduino-cli core install arduino:avr
+```
+
+#### ✅ Compilar e Enviar o Código
+
+```bash
+arduino-cli compile --fqbn arduino:avr:uno Caminho/Do/Projeto
+arduino-cli upload --port COM3 --fqbn arduino:avr:uno Caminho/Do/Projeto
+```
+
+> No Linux, a porta pode ser algo como `/dev/ttyUSB0`.
+> Verifique com: `arduino-cli board list`
+
+---
+
+### 📦 Dependências
+
+Alguns projetos podem usar bibliotecas externas. Para instalá-las com a Arduino IDE ou Arduino-CLI:
+
+#### Arduino IDE:
+
+* `Sketch > Incluir Biblioteca > Gerenciar Bibliotecas...`
+
+#### Arduino-CLI:
+
+```bash
+arduino-cli lib install "NomeDaBiblioteca"
+```
+
+---
+
+
