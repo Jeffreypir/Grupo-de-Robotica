@@ -4,7 +4,7 @@
 
 <div align="justify">
 
-Bem-vindo ao repositório do **Grupo de Robótica da EREFEM Monsenhor José Kehrle**. Este espaço foi criado para registrar e compartilhar nossos projetos de robótica com foco em **sustentabilidade, inovação tecnológica** e **educação no Ensino Médio**.
+Bem-vindo ao repositório do **Grupo de Robótica**. Este espaço foi criado para registrar e compartilhar nossos projetos de robótica com foco em **sustentabilidade, inovação tecnológica** e **educação no Ensino Médio**.
 
 [![Wiki do Projeto](https://img.shields.io/badge/wiki-acessar-blue?style=flat-square\&logo=github)](https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/)
 [![Licença](https://img.shields.io/github/license/Jeffreypir/Grupo-de-Robotica?style=flat-square)](LICENSE)
