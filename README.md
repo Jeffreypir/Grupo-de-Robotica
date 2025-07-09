@@ -33,7 +33,7 @@ A tecnologia tem transformado profundamente a sociedade, e a **robótica educaci
 
 ## 🧪 Metodologia
 
-O projeto foi desenvolvido durante a disciplina de **Robótica IV** com estudantes do Ensino Médio, que trabalharam em equipes para resolver desafios utilizando **Arduino** e **materiais recicláveis**. As atividades incluíram:
+O projeto foi desenvolvido durante o projeto do **Grupo de Robótica** com estudantes do Ensino Médio, que trabalharam em equipes para resolver desafios utilizando **Arduino** e **materiais recicláveis**. As atividades incluíram:
 
 * Modelagem matemática dos sistemas.
 * Programação dos robôs.
