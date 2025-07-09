@@ -79,7 +79,6 @@ A introdução de **práticas sustentáveis na robótica educacional** contribui
 * [🔎 Wiki do Projeto](https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/) — Documentação completa, tutoriais e registros dos projetos.
 
 ---
-Perfeito! Aqui está a **seção adicional** para seu `README.md`, com instruções claras e profissionais para usuários que desejam rodar os projetos usando **Arduino IDE** ou **Arduino-CLI**, tanto em **Windows** quanto **Linux**:
 
 ---
 
