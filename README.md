@@ -8,7 +8,8 @@ Bem-vindo ao repositório do **Grupo de Robótica**. Este espaço foi criado par
 
 [![Wiki do Projeto](https://img.shields.io/badge/wiki-acessar-blue?style=flat-square\&logo=github)](https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/)
 [![Licença](https://img.shields.io/github/license/Jeffreypir/Grupo-de-Robotica?style=flat-square)](LICENSE)
-[![Repositório](https://img.shields.io/badge/Arduino-projetos-green?style=flat-square\&logo=arduino)](https://www.arduino.cc/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40jefferson.0__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefferson.0_1?igsh=ZDdkdzRndXJsN3U1
+[![Repositório(https://img.shields.io/badge/Arduino-projetos-green?style=flat-square\&logo=arduino)](https://www.arduino.cc/)
 
 </div>
 
