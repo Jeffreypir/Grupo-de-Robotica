@@ -6,10 +6,10 @@
 
 Bem-vindo ao repositório do **Grupo de Robótica**. Este espaço foi criado para registrar e compartilhar nossos projetos de robótica com foco em **sustentabilidade, inovação tecnológica** e **educação no Ensino Médio**.
 
-[![Wiki do Projeto](https://img.shields.io/badge/wiki-acessar-blue?style=flat-square\&logo=github)](https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/)
+[![Wiki do Projeto](https://img.shields.io/badge/wiki-acessar-blue?style=flat-square&logo=github)](https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/)
 [![Licença](https://img.shields.io/github/license/Jeffreypir/Grupo-de-Robotica?style=flat-square)](LICENSE)
 [![Instagram](https://img.shields.io/badge/Instagram-%40jefferson.0__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefferson.0_1?igsh=ZDdkdzRndXJsN3U1)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575992597174)
 </div>
 
 ---
