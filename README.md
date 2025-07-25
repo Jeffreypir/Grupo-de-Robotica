@@ -78,7 +78,7 @@ A introdução de **práticas sustentáveis na robótica educacional** contribui
 
 * [🔎 Wiki do Projeto](https://github.com/Jeffreypir/Grupo-de-Robotica/wiki/) — Documentação completa, tutoriais e registros dos projetos.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40jefferson.0__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefferson.0_1?igsh=ZDdkdzRndXJsN3U1)
+
 ---
 
 ---
